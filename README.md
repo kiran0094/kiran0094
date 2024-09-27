@@ -13,7 +13,6 @@
 <h1 align="center">Let's Get Connected</h1>
 <p align="center">
 <a href="https://twitter.com/https://x.com/kirank83850935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/kirank83850935" height="30" width="40" /></a>
- <br>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/k-kiran-a444701b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/k-kiran-a444701b6/" height="30" width="40" /></a>
 </p>
 <br>
