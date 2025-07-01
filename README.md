@@ -5,7 +5,7 @@
   🎓 Computer Science Student | 🔭 Currently exploring the world of full-stack development and beyond.<br>
   Always eager to learn, build, and contribute to exciting tech projects.
 </p>
-<img src="webdev.jpeg" alt="devimage" />
+<img src="webdev.jpg" alt="devimage" />
 
 ---
 
